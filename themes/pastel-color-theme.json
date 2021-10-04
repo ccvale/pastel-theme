@@ -511,6 +511,19 @@
 				"fontStyle": ""
 			}
 		},
+		{
+			"name": "Javascript Operators",
+			"scope": [
+				"keyword.operator.ternary.js",
+				"storage.type.function.arrow.js",
+				"meta.brace.square.js",
+				"keyword.operator.rest.js"
+			],
+			"settings": {
+				"foreground": "#AFCBFF",
+				"fontStyle": ""
+			}
+		},
 		
 	]
 }
