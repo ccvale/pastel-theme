@@ -80,8 +80,8 @@
 		"editorOverviewRuler.errorForeground": "#F43E5CE6",
 		"editorOverviewRuler.warningForeground": "#27D79780",
 		"editorOverviewRuler.bracketMatchForeground": "#D5D8DA80",
-		"editorError.foreground": "#5d61a1",
-		"editorWarning.foreground": "#5d61a1",
+		"editorError.foreground": "#AFCBFF",
+		"editorWarning.foreground": "#AFCBFF",
 		"editorGutter.modifiedBackground": "#DF8598",
 		"editorGutter.addedBackground": "#DF8598",
 		"editorGutter.deletedBackground": "#F43E5CB3",
@@ -101,7 +101,7 @@
 		"panelTitle.activeBorder": "#DF8598",
 		"statusBar.background": "#DF8598",
 		"statusBar.foreground": "#06060C",
-		"statusBar.debuggingBackground": "#aa93dd",
+		"statusBar.debuggingBackground": "#AA93DD",
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBar.noFolderBackground": "#0b0c0f",
 		"statusBarItem.hoverBackground": "#2E303E",
@@ -127,11 +127,11 @@
 		"terminal.ansiYellow": "#FAB795",
 		"terminal.selectionBackground": "#6C6F934D",
 		"terminalCursor.background": "#D5D8DA",
-		"terminalCursor.foreground": "#aa93dd",
+		"terminalCursor.foreground": "#AA93DD",
 		"debugToolBar.background": "#0b0c0f",
 		"walkThrough.embeddedEditorBackground": "#1b1c25",
 		"gitDecoration.addedResourceForeground": "#27D797B3",
-		"gitDecoration.modifiedResourceForeground": "#aa93dd",
+		"gitDecoration.modifiedResourceForeground": "#AA93DD",
 		"gitDecoration.deletedResourceForeground": "#DF8598",
 		"gitDecoration.untrackedResourceForeground": "#D5D8DA",
 		"gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
@@ -142,7 +142,7 @@
 			"name": "Comments",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#aa93dd",
+				"foreground": "#DF8598",
 				"fontStyle": "italic"
 			}
 		},
@@ -179,7 +179,7 @@
 			"name": "Tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#DF8598",
+				"foreground": "#AA93DD",
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"name": "Tag attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#DF8598",
+				"foreground": "#afcbff",
 				"fontStyle": "italic"
 			}
 		},
@@ -211,7 +211,7 @@
 			"name": "CSS ID selectors",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#DF8598"
 			}
 		},
 		{
@@ -332,8 +332,8 @@
 			"name": "Storage keywords",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#7780ff",
-				"fontStyle": "italic"
+				"foreground": "#AA93DD",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -344,7 +344,7 @@
 			],
 			"settings": {
 				"foreground": "#DF8598",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -365,14 +365,14 @@
 			"name": "Provided (support) values",
 			"scope": "support",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#DF8598"
 			}
 		},
 		{
 			"name": "Provided functions",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
@@ -389,14 +389,14 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AA93DD"
 			}
 		},
 		{
 			"name": "CSS property names",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AA93DD"
 			}
 		},
 		{
@@ -457,7 +457,39 @@
 			"name": "Markup list punctuation",
 			"scope": "punctuation.definition.list",
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AA93DD"
+			}
+		},
+		{
+			"name": "Python Functions Used",
+			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#AFCBFF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Python Variables Used",
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#AA93DD",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Python Logical Keywords",
+			"scope": "keyword.operator.logical.python",
+			"settings": {
+				"foreground": "#AA93DD",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Python Magic",
+			"scope": "support.variable.magic.python",
+			"settings": {
+				"foreground": "#AA93DD",
+				"fontStyle": ""
 			}
 		}
 	]
