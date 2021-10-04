@@ -2,9 +2,11 @@
 ## VSCode theme for those who aren't afraid to get colourful
 
 ----------
+
 <p align="center">
   <img alt="Pastel Preview" src="https://github.com/ccvale/pastel-theme/raw/master/code_snippet.png" style="border-radius: 5px;">
 </p>
+
 ----------
 
 ## Installation
