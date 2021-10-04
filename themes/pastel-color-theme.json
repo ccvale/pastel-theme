@@ -491,6 +491,14 @@
 				"foreground": "#AA93DD",
 				"fontStyle": ""
 			}
+		},
+		{
+			"name": "C++ Scope Operator",
+			"scope": "entity.name.type.cpp",
+			"settings": {
+				"foreground": "#AA93DD",
+				"fontStyle": ""
+			}
 		}
 	]
 }
