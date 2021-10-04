@@ -99,9 +99,9 @@
 		"peekViewResult.selectionBackground": "#2E303E80",
 		"peekViewTitle.background": "#1b1c25",
 		"panelTitle.activeBorder": "#E95378",
-		"statusBar.background": "#0b0c0f",
-		"statusBar.foreground": "#D5D8DA80",
-		"statusBar.debuggingBackground": "#cf8292",
+		"statusBar.background": "#DF8598",
+		"statusBar.foreground": "#06060C",
+		"statusBar.debuggingBackground": "#DF8598",
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBar.noFolderBackground": "#0b0c0f",
 		"statusBarItem.hoverBackground": "#2E303E",
@@ -290,7 +290,7 @@
 			"name": "Markup bold",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#cf8292",
+				"foreground": "#DF8598",
 				"fontStyle": "bold"
 			}
 		},
