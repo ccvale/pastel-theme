@@ -15,7 +15,3 @@
 2. Click on Install to add the theme to your VS Code setup
 3. Open the Command Palette (Ctrl-Shift-P) and select Preferences: Color Theme. This will list down all the themes you've installed.
 4. Select the Pastel theme to activate it.
-
-## Credits
-
-Celestial is a modified(darker) version of [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) Theme by [Jonathon](https://marketplace.visualstudio.com/publishers/jolaleye)
