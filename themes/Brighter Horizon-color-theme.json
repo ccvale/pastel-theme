@@ -150,7 +150,7 @@
 			"name": "Constants",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#ec94c4"
+				"foreground": "#DF8598"
 			}
 		},
 		{
@@ -172,7 +172,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#DF8598",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 				"keyword.operator.new",
 				"keyword.operator.expression",
 				"keyword.operator.logical",
-				"keyword.operator.delete"
+				"keyword.operator.delete",
 			],
 			"settings": {
 				"foreground": "#5d61a1"
@@ -272,7 +272,7 @@
 			"name": "Markup quotes",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#ec94c4",
+				"foreground": "#DF8598",
 				"fontStyle": "italic"
 			}
 		},
@@ -371,7 +371,7 @@
 			"name": "Provieded variables",
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#ec94c4"
+				"foreground": "#DF8598"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#ec94c4",
+				"foreground": "#DF8598",
 				"fontStyle": "italic"
 			}
 		},
@@ -427,7 +427,8 @@
 			"name": "Key/value separators",
 			"scope": "punctuation.separator",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#BBBBBB",
+				"fontStyle": "bold"
 			}
 		},
 		{
