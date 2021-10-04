@@ -1,12 +1,12 @@
 {
     "name": "pastel-theme",
     "displayName": "Pastel",
-    "description": "Bright colours...work in progress",
+    "description": "For those who aren't afraid to get colourful",
     "publisher": "cval",
     "author": {
         "name": "Chris Valente"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.60.0"
     },

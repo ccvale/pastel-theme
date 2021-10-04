@@ -76,8 +76,8 @@
 		"editorOverviewRuler.findMatchForeground": "#6C6F93",
 		"editorOverviewRuler.modifiedForeground": "#AFCBFF",
 		"editorOverviewRuler.addedForeground": "#AFCBFF",
-		"editorOverviewRuler.deletedForeground": "#F43E5C80",
-		"editorOverviewRuler.errorForeground": "#F43E5CE6",
+		"editorOverviewRuler.deletedForeground": "#DF8598",
+		"editorOverviewRuler.errorForeground": "#DF8598",
 		"editorOverviewRuler.warningForeground": "#AFCBFF",
 		"editorOverviewRuler.bracketMatchForeground": "#D5D8DA80",
 		"editorError.foreground": "#AFCBFF",
@@ -113,7 +113,7 @@
 		"extensionButton.prominentHoverBackground": "#DF8598",
 		"pickerGroup.foreground": "#DF8598E6",
 		"terminal.foreground": "#D5D8DA",
-		"terminal.ansiBlue": "#26BBD9",
+		"terminal.ansiBlue": "#AA93DD",
 		"terminal.ansiBrightBlue": "#AFCBFF",
 		"terminal.ansiBrightCyan": "#AFCBFF",
 		"terminal.ansiBrightGreen": "#AFCBFF",
@@ -137,6 +137,7 @@
 		"gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
 		"breadcrumbPicker.background": "#232530"
 	},
+
 	"tokenColors": [
 		{
 			"name": "Comments",
@@ -172,7 +173,6 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#DF8598",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -215,11 +215,10 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Function Operator Member C++",
 			"scope": "entity.name.function.operator.member.cpp",
 			"settings": {
 				"foreground": "#D5D8DA",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -247,7 +246,6 @@
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#DF8598",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -333,7 +331,6 @@
 			"scope": "storage",
 			"settings": {
 				"foreground": "#AA93DD",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -344,7 +341,6 @@
 			],
 			"settings": {
 				"foreground": "#DF8598",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -412,8 +408,7 @@
 		{
 			"name": "Parameters",
 			"scope": "variable.parameter",
-			"settings": {
-				"fontStyle": "",
+			"settings": {,
 				"foreground": "#DF8598"
 			}
 		},
@@ -465,7 +460,6 @@
 			"scope": "meta.function-call.generic.python",
 			"settings": {
 				"foreground": "#AFCBFF",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -473,15 +467,13 @@
 			"scope": "source.python",
 			"settings": {
 				"foreground": "#AA93DD",
-				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Python Logical Keywords",
-			"scope": "keyword.operator.logical.python",
+			"scope": "keyword.operator.logical",
 			"settings": {
 				"foreground": "#AA93DD",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -489,7 +481,6 @@
 			"scope": "support.variable.magic.python",
 			"settings": {
 				"foreground": "#AA93DD",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -497,7 +488,6 @@
 			"scope": "entity.name.type.cpp",
 			"settings": {
 				"foreground": "#AA93DD",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -508,7 +498,6 @@
 			],
 			"settings": {
 				"foreground": "#AFCBFF",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -521,7 +510,6 @@
 			],
 			"settings": {
 				"foreground": "#AFCBFF",
-				"fontStyle": ""
 			}
 		},
 		
