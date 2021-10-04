@@ -3,7 +3,7 @@
 
 ----------
 <p align="center">
-  <img alt="Celestial Preview" src="https://github.com/apvarun/pastel-theme/raw/master/code_snippet.png" style="border-radius: 5px;">
+  <img alt="Pastel Preview" src="https://github.com/ccvale/pastel-theme/raw/master/code_snippet.png" style="border-radius: 5px;">
 </p>
 ----------
 
