@@ -2,7 +2,10 @@
 ## VSCode theme for those who aren't afraid to get colourful
 
 ----------
-
+<p align="center">
+  <img alt="Celestial Preview" src="https://github.com/apvarun/pastel-theme/raw/master/code_snippet.png" style="border-radius: 5px;">
+</p>
+----------
 
 ## Installation
 
