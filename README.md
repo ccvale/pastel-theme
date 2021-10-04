@@ -4,8 +4,6 @@
 ----------
 
 
-----------
-
 ## Installation
 
 1. Search for Pastel Theme in Extensions option in VS Code sidebar
