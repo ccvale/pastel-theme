@@ -1,0 +1,21 @@
+{
+    "name": "brighter-horizon",
+    "displayName": "Brighter Horizon",
+    "description": "Fork of a fork of the Horizon theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brighter Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brighter Horizon-color-theme.json"
+            }
+        ]
+    }
+}
