@@ -2,12 +2,37 @@
     "name": "pastel-theme",
     "displayName": "Pastel",
     "description": "Bright colours...work in progress",
+    "publisher": "ccvale",
+    "author": {
+        "name": "Chris Valente"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ccvale/pastel-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/ccvale/pastel-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#DF8598",
+        "theme": "dark"
+    },
+    "icon": "star.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "ccvale",
+        "Chris Valente",
+        "pastel",
+        "pastel theme",
+        "pink",
+        "purple",
+        "blue"
     ],
     "contributes": {
         "themes": [
