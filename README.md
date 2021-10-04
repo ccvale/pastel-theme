@@ -1,5 +1,5 @@
-# Brighter Horizon
-## VS Code theme for all the people who love to code in deep dark spaces.
+# Pastel
+## VSCode theme for those who aren't afraid to get colourful
 
 ----------
 
@@ -11,10 +11,10 @@
 
 ## Installation
 
-1. Search for Brighter Horizon in Extensions option in VS Code sidebar
+1. Search for Pastel in Extensions option in VS Code sidebar
 2. Click on Install to add the theme to your VS Code setup
 3. Open the Command Palette (Ctrl-Shift-P) and select Preferences: Color Theme. This will list down all the themes you've installed.
-4. Select the Brighter Horizon theme to activate it.
+4. Select the Pastel theme to activate it.
 
 ## Credits
 
