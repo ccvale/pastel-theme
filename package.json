@@ -1,7 +1,7 @@
 {
-    "name": "brighter-horizon",
-    "displayName": "Brighter Horizon",
-    "description": "Fork of a fork of the Horizon theme.",
+    "name": "pastel-theme",
+    "displayName": "Pastel",
+    "description": "Bright colours...work in progress",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Brighter Horizon",
+                "label": "Pastel",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Brighter Horizon-color-theme.json"
+                "path": "./themes/pastel-color-theme.json"
             }
         ]
     }
