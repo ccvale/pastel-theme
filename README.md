@@ -1,4 +1,4 @@
-# Pastel
+# Pastel Theme for VSCode
 ## VSCode theme for those who aren't afraid to get colourful
 
 ----------
