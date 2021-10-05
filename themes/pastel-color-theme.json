@@ -457,7 +457,12 @@
 		},
 		{
 			"name": "Python Functions Used",
-			"scope": "meta.function-call.generic.python",
+			"scope": [
+				"meta.function-call.generic.python",
+				"support.type.python",
+				"keyword.control.flow.python",
+				"constant.other.caps.python"
+			],
 			"settings": {
 				"foreground": "#AFCBFF",
 			}
