@@ -158,7 +158,7 @@
 			"name": "Escape characters",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
@@ -264,7 +264,7 @@
 				"keyword.operator.delete",
 			],
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 			"name": "Markup quotes",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#5d61a1",
+				"foreground": "#AFCBFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -304,7 +304,7 @@
 			"name": "Markup italics",
 			"scope": "markup.italic",
 			"settings": {
-				"foreground": "#5d61a1",
+				"foreground": "#AFCBFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -315,14 +315,14 @@
 				"markup.fenced_code.block"
 			],
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
 			"name": "Markup links",
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#5d61a1",
+				"foreground": "#AFCBFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -375,7 +375,7 @@
 			"name": "Provided variables",
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
@@ -438,14 +438,14 @@
 			"name": "Template expressions",
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
 			"name": "Embedded section punctuation",
 			"scope": "punctuation.section.embedded",
 			"settings": {
-				"foreground": "#5d61a1"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
