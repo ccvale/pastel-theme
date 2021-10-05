@@ -6,9 +6,9 @@
     "author": {
         "name": "Chris Valente"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.00.0"
     },
     "repository": {
         "type": "git",
