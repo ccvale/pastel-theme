@@ -8,7 +8,7 @@
     },
     "version": "0.0.4",
     "engines": {
-        "vscode": "^1.00.0"
+        "vscode": "^1.48.0"
     },
     "repository": {
         "type": "git",

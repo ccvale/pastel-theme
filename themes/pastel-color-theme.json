@@ -408,7 +408,7 @@
 		{
 			"name": "Parameters",
 			"scope": "variable.parameter",
-			"settings": {,
+			"settings": {
 				"foreground": "#DF8598"
 			}
 		},
