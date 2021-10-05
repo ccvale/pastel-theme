@@ -14,3 +14,7 @@ All notable changes to the "pastel-theme" extension will be documented in this f
 ## [0.0.3 - 0.0.5]
 
 - Bug fixes, added compatibility for wider range of VSCode versions (re: user feedback)
+
+## [0.0.6]
+
+- Fixed incorrect color in palatte
