@@ -3,12 +3,12 @@
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#22252e",
-		"foreground": "#D5D8DA",
+		"foreground": "#BBBBBB",
 		"widget.shadow": "#16161C",
 		"selection.background": "#6C6F9380",
 		"errorForeground": "#DF8598",
 		"textLink.activeForeground": "#DF8598",
-		"textLink.foreground": "#DF8598",
+		"textLink.foreground": "#AA93DD",
 		"button.background": "#2E303E",
 		"dropdown.background": "#1b1c25",
 		"dropdown.listBackground": "#2E303E",
@@ -20,19 +20,19 @@
 		"scrollbarSlider.activeBackground": "#6C6F9380",
 		"scrollbarSlider.background": "#6C6F931A",
 		"scrollbarSlider.hoverBackground": "#6C6F934D",
-		"badge.foreground": "#D5D8DA",
+		"badge.foreground": "#BBBBBB",
 		"badge.background": "#2E303E",
 		"progressBar.background": "#DF8598",
 		"list.activeSelectionBackground": "#2E303E80",
-		"list.activeSelectionForeground": "#D5D8DA",
+		"list.activeSelectionForeground": "#BBBBBB",
 		"list.dropBackground": "#6C6F9380",
 		"list.focusBackground": "#2E303E80",
-		"list.focusForeground": "#D5D8DA",
+		"list.focusForeground": "#BBBBBB",
 		"list.highlightForeground": "#DF8598",
 		"list.hoverBackground": "#2E303E80",
-		"list.hoverForeground": "#D5D8DA",
+		"list.hoverForeground": "#BBBBBB",
 		"list.inactiveSelectionBackground": "#2E303E4D",
-		"list.inactiveSelectionForeground": "#D5D8DA",
+		"list.inactiveSelectionForeground": "#BBBBBB",
 		"list.inactiveFocusBackground": "#2E303E80",
 		"list.errorForeground": "#DF8598",
 		"list.warningForeground": "#DF8598",
@@ -44,7 +44,7 @@
 		"sideBar.foreground": "#AA93DD",
 		"sideBar.dropBackground": "#6C6F934D",
 		"sideBarSectionHeader.background": "#0E0F13",
-		"sideBarSectionHeader.foreground": "#DF8598",
+		"sideBarSectionHeader.foreground": "#AA93DD",
 		"editorGroup.border": "#22252e",
 		"editorGroup.dropBackground": "#6C6F934D",
 		"editorGroupHeader.tabsBackground": "#0b0c0f",
@@ -79,7 +79,7 @@
 		"editorOverviewRuler.deletedForeground": "#DF8598",
 		"editorOverviewRuler.errorForeground": "#DF8598",
 		"editorOverviewRuler.warningForeground": "#AFCBFF",
-		"editorOverviewRuler.bracketMatchForeground": "#D5D8DA80",
+		"editorOverviewRuler.bracketMatchForeground": "#BBBBBB80",
 		"editorError.foreground": "#AFCBFF",
 		"editorWarning.foreground": "#AFCBFF",
 		"editorGutter.modifiedBackground": "#DF8598",
@@ -112,7 +112,7 @@
 		"extensionButton.prominentBackground": "#DF8598",
 		"extensionButton.prominentHoverBackground": "#DF8598",
 		"pickerGroup.foreground": "#DF8598E6",
-		"terminal.foreground": "#D5D8DA",
+		"terminal.foreground": "#BBBBBB",
 		"terminal.ansiBlue": "#AA93DD",
 		"terminal.ansiBrightBlue": "#AFCBFF",
 		"terminal.ansiBrightCyan": "#AFCBFF",
@@ -126,24 +126,27 @@
 		"terminal.ansiRed": "#DF8598",
 		"terminal.ansiYellow": "#AA93DD",
 		"terminal.selectionBackground": "#6C6F934D",
-		"terminalCursor.background": "#D5D8DA",
+		"terminalCursor.background": "#BBBBBB",
 		"terminalCursor.foreground": "#AA93DD",
 		"debugToolBar.background": "#0b0c0f",
 		"walkThrough.embeddedEditorBackground": "#1b1c25",
 		"gitDecoration.addedResourceForeground": "#AFCBFF",
 		"gitDecoration.modifiedResourceForeground": "#DF8598",
 		"gitDecoration.deletedResourceForeground": "#AA93DD",
-		"gitDecoration.untrackedResourceForeground": "#D5D8DA",
-		"gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
+		"gitDecoration.untrackedResourceForeground": "#BBBBBB",
+		"gitDecoration.ignoredResourceForeground": "#aa93dd80",
 		"breadcrumbPicker.background": "#232530"
 	},
 
 	"tokenColors": [
 		{
 			"name": "Comments",
-			"scope": "comment",
+			"scope": [
+				"comment",
+				"string.quoted.docstring"
+			],
 			"settings": {
-				"foreground": "#DF8598",
+				"foreground": "#BBBBBB",
 				"fontStyle": "italic"
 			}
 		},
@@ -165,14 +168,14 @@
 			"name": "Named entities",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
 			"name": "Function names",
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#DF8598",
+				"foreground": "#AFCBFF",
 			}
 		},
 		{
@@ -218,7 +221,7 @@
 			"name": "Function Operator Member C++",
 			"scope": "entity.name.function.operator.member.cpp",
 			"settings": {
-				"foreground": "#D5D8DA",
+				"foreground": "#BBBBBB",
 			}
 		},
 		{
@@ -252,7 +255,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D5D8DA"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
@@ -401,7 +404,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#DF8598",
+				"foreground": "#AA93DD",
 				"fontStyle": "italic"
 			}
 		},
@@ -409,7 +412,7 @@
 			"name": "Parameters",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#DF8598"
+				"foreground": "#AFCBFF"
 			}
 		},
 		{
@@ -445,20 +448,20 @@
 			"name": "Embedded section punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#AFCBFF"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
 			"name": "Markup list punctuation",
 			"scope": "punctuation.definition.list",
 			"settings": {
-				"foreground": "#AA93DD"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
 			"name": "Python Functions Used",
 			"scope": [
-				"meta.function-call.generic.python",
+				"meta.function-call.generic",
 				"support.type.python",
 				"keyword.control.flow.python",
 				"constant.other.caps.python"
@@ -483,7 +486,10 @@
 		},
 		{
 			"name": "Python Magic",
-			"scope": "support.variable.magic.python",
+			"scope": [
+				"support.variable.magic.python",
+				"variable.parameter.function.language.special.self.python"
+			],
 			"settings": {
 				"foreground": "#AA93DD",
 			}
@@ -499,7 +505,10 @@
 			"name": "C++ Includes/Definitions",
 			"scope": [
 				"keyword.control.directive.include.cpp",
-				"keyword.control.directive.define.cpp"
+				"keyword.control.directive.define.cpp",
+				"variable.other.global.cpp",
+				"punctuation.separator.pointer-access.cpp",
+				"punctuation.definition.directive.cpp"
 			],
 			"settings": {
 				"foreground": "#AFCBFF",
@@ -517,6 +526,12 @@
 				"foreground": "#AFCBFF",
 			}
 		},
-		
+		{
+			"name": "Python Self Keyword",
+			"scope": "support.type.python",
+			"settings": {
+				"foreground": "#AA93DD",
+			}
+		}		
 	]
 }

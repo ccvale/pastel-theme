@@ -1,7 +1,5 @@
 # Change Log
 
-All notable changes to the "pastel-theme" extension will be documented in this file.
-
 
 ## [0.0.1]
 
@@ -15,6 +13,8 @@ All notable changes to the "pastel-theme" extension will be documented in this f
 
 - Bug fixes, added compatibility for wider range of VSCode versions (re: user feedback)
 
-## [0.0.6 - 0.0.7]
+## [0.0.6 - 0.0.8]
 
-- Fixed incorrect color in palatte
+- Fixed incorrect colors in palette
+- Modifying syntax highlighting for certain languages
+- Extended colours to VSCode menus
