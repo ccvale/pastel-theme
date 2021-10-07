@@ -315,7 +315,9 @@
 			"name": "Markup code",
 			"scope": [
 				"markup.inline.raw",
-				"markup.fenced_code.block"
+				"markup.fenced_code.block",
+				"punctuation.definition.heading.markdown",
+				"punctuation.definition.list.begin.markdown"
 			],
 			"settings": {
 				"foreground": "#AFCBFF"
