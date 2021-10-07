@@ -13,7 +13,7 @@
 
 - Bug fixes, added compatibility for wider range of VSCode versions (re: user feedback)
 
-## [0.0.6 - 0.0.8]
+## [0.0.6 - 0.0.9]
 
 - Fixed incorrect colors in palette
 - Modifying syntax highlighting for certain languages
