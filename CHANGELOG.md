@@ -1,5 +1,6 @@
 # Change Log
 
+- Where changes will be documented for the theme (there will probably be a lot of these)
 
 ## [0.0.1]
 
@@ -19,7 +20,7 @@
 - Modifying syntax highlighting for certain languages
 - Extended colours to VSCode menus
 
-## [0.1.0]
+## [0.1.0 - 0.1.1]
 
 - Updated more syntax and example snippet on README for a more accurate depiction of the current state of the theme
 - Still pondering changes found in longer python classes (might be too much purple)
