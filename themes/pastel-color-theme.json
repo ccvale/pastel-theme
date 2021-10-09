@@ -253,7 +253,10 @@
 		},
 		{
 			"name": "Operators",
-			"scope": "keyword.operator",
+			"scope": [
+				"keyword.operator",
+				"storage.type.function.arrow.js"
+			],
 			"settings": {
 				"foreground": "#BBBBBB"
 			}
@@ -289,7 +292,7 @@
 			"name": "Markup headings",
 			"scope": [
 				"markup.heading",
-				"entity.name.section"
+				"entity.name.section",
 			],
 			"settings": {
 				"foreground": "#DF8598"
@@ -342,7 +345,9 @@
 			"name": "Strings",
 			"scope": [
 				"string.quoted",
-				"string.template"
+				"string.template",
+				"variable.parameter.function.language.special.self.python",
+				
 			],
 			"settings": {
 				"foreground": "#DF8598",
@@ -387,7 +392,8 @@
 			"name": "Object/JSON property names",
 			"scope": [
 				"support.type.property-name",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"variable.parameter.js"
 			],
 			"settings": {
 				"foreground": "#AA93DD"
@@ -487,10 +493,9 @@
 			}
 		},
 		{
-			"name": "Python Magic",
+			"name": "Python",
 			"scope": [
 				"support.variable.magic.python",
-				"variable.parameter.function.language.special.self.python"
 			],
 			"settings": {
 				"foreground": "#AA93DD",
@@ -511,18 +516,6 @@
 				"variable.other.global.cpp",
 				"punctuation.separator.pointer-access.cpp",
 				"punctuation.definition.directive.cpp"
-			],
-			"settings": {
-				"foreground": "#AFCBFF",
-			}
-		},
-		{
-			"name": "Javascript Operators",
-			"scope": [
-				"keyword.operator.ternary.js",
-				"storage.type.function.arrow.js",
-				"meta.brace.square.js",
-				"keyword.operator.rest.js"
 			],
 			"settings": {
 				"foreground": "#AFCBFF",

@@ -18,3 +18,8 @@
 - Fixed incorrect colors in palette
 - Modifying syntax highlighting for certain languages
 - Extended colours to VSCode menus
+
+## [0.1.0]
+
+- Updated more syntax and example snippet on README for a more accurate depiction of the current state of the theme
+- Still pondering changes found in longer python classes (might be too much purple)
