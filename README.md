@@ -5,7 +5,7 @@
 ----------
 
 <p align="center">
-  <img alt="Pastel Theme Preview" src="https://github.com/ccvale/pastel-theme/raw/master/code-snippet-010.png" style="border-radius: 20px;">
+  <img alt="Pastel Theme Preview" src="https://github.com/ccvale/pastel-theme/raw/master/code-snippet-v010.png" style="border-radius: 20px;">
 </p>
 
 ----------
