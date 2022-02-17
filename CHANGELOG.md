@@ -17,10 +17,15 @@
 ## [0.0.6 - 0.0.9]
 
 - Fixed incorrect colors in palette
-- Modifying syntax highlighting for certain languages
+- Modified syntax highlighting for certain languages
 - Extended colours to VSCode menus
 
 ## [0.1.0 - 0.1.1]
 
 - Updated more syntax and example snippet on README for a more accurate depiction of the current state of the theme
 - Still pondering changes found in longer python classes (might be too much purple)
+
+## [0.1.2]
+
+- Modified type highlighting in C
+- Rethemed the Color Palette
