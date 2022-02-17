@@ -138,9 +138,9 @@
 		"breadcrumbPicker.background": "#232530",
 		"quickInput.background": "#0b0c0f",
 		"quickInput.foreground": "#ffffffa1",
-		"quickInputList.focusBackground": "#AA93DD",
 		"quickInputList.focusForeground": "#ffffffa1",
 		"quickInputList.focusIconForeground": "#DF8598",
+		"editorSuggestWidget.background": "#0E0F13"
 	},
 
 	"tokenColors": [
