@@ -352,7 +352,7 @@
 			"scope": [
 				"string.quoted",
 				"string.template",
-				"variable.parameter.function.language.special.self.python",
+				"variable.parameter.function.language.special.self.python"
 				
 			],
 			"settings": {
@@ -478,7 +478,8 @@
 				"meta.function-call.generic",
 				"support.type.python",
 				"keyword.control.flow.python",
-				"constant.other.caps.python"
+				"constant.other.caps.python",
+				"variable.language.special.self.python"
 			],
 			"settings": {
 				"foreground": "#AFCBFF",

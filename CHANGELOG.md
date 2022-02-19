@@ -25,8 +25,9 @@
 - Updated more syntax and example snippet on README for a more accurate depiction of the current state of the theme
 - Still pondering changes found in longer python classes (might be too much purple)
 
-## [0.1.2 - 0.1.3]
+## [0.1.2 - 0.1.4]
 
 - Modified type highlighting in C
 - Rethemed the Color Palette
 - Extended theme to autocompletion window and fixed unintended color clashing in certain menus as a result of 0.1.2 update
+- Finally felt like changing python self keyword from purple to blue
