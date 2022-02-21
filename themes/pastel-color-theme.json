@@ -526,7 +526,8 @@
 				"keyword.control.directive.define.cpp",
 				"variable.other.global.cpp",
 				"punctuation.separator.pointer-access.cpp",
-				"punctuation.definition.directive.cpp"
+				"punctuation.definition.directive.cpp",
+				"keyword.control.c"
 			],
 			"settings": {
 				"foreground": "#AFCBFF",

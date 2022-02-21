@@ -25,7 +25,7 @@
 - Updated more syntax and example snippet on README for a more accurate depiction of the current state of the theme
 - Still pondering changes found in longer python classes (might be too much purple)
 
-## [0.1.2 - 0.1.4]
+## [0.1.2 - 0.1.5]
 
 - Modified type highlighting in C
 - Rethemed the Color Palette
