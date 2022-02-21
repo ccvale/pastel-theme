@@ -479,7 +479,8 @@
 				"support.type.python",
 				"keyword.control.flow.python",
 				"constant.other.caps.python",
-				"variable.language.special.self.python"
+				"variable.language.special.self.python",
+				"keyword.operator.logical.python"
 			],
 			"settings": {
 				"foreground": "#AFCBFF",
