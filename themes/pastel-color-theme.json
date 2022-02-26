@@ -273,7 +273,8 @@
 				"keyword.operator.expression",
 				"keyword.operator.logical",
 				"keyword.operator.delete",
-				"keyword.control.directive"
+				"keyword.control.directive",
+				"constant.other.placeholder.c"
 			],
 			"settings": {
 				"foreground": "#AFCBFF"
