@@ -260,7 +260,9 @@
 			"name": "Operators",
 			"scope": [
 				"keyword.operator",
-				"storage.type.function.arrow.js"
+				"storage.type.function.arrow.js",
+				"meta.brace.round.js",
+				"meta.brace.square.js"
 			],
 			"settings": {
 				"foreground": "#BBBBBB"
@@ -541,6 +543,18 @@
 			"settings": {
 				"foreground": "#AA93DD",
 			}
-		}		
+		},
+		{
+			"name": "Javascript extended flow highlighting",
+			"scope": [
+				"keyword.control.flow.js",
+				"keyword.control.conditional.js",
+				"keyword.control.loop.js",
+				"variable.language.this.js"
+			],
+			"settings": {
+				"foreground": "#AFCBFF"
+			}
+		}
 	]
 }

@@ -31,3 +31,7 @@
 - Rethemed the Color Palette
 - Extended theme to autocompletion window and fixed unintended color clashing in certain menus as a result of 0.1.2 update
 - Changed syntax highlighting in Python classes specifically
+
+## [0.1.8]
+
+- Extended range of syntax highlighting for Javascript language (re: user review on Microsoft) 
