@@ -39,3 +39,4 @@
 
 - Updated code snippet on marketplace page/repository
 - Refreshed C++ syntax highlighting to match other recently made changes
+- Added uniform type highlighting for Typescript and fixed some issues with Java (there are still more to fix though)

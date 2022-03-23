@@ -469,7 +469,8 @@
 			"name": "Embedded section punctuation",
 			"scope": [
 				"punctuation",
-				"punctuation.separator.delimiter.comma.cpp"
+				"punctuation.separator.delimiter.comma.cpp",
+				"keyword.control.ternary.java"
 			],
 			"settings": {
 				"foreground": "#BBBBBB",
@@ -563,6 +564,17 @@
 			"settings": {
 				"foreground": "#AFCBFF"
 			}
-		}
+		},
+		{
+			"name": "Typescript extended flow highlighting",
+			"scope": [
+				"support.type.primitive.ts",
+			],
+			"settings": {
+				"foreground": "#AA93DD"
+			}
+		},
+
+		
 	]
 }
