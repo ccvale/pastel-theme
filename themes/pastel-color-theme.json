@@ -224,7 +224,11 @@
 		},
 		{
 			"name": "Function Operator Member C++",
-			"scope": "entity.name.function.operator.member.cpp",
+			"scope": [
+				"entity.name.function.operator.member.cpp",
+				"entity.name.function.operator.cpp",
+				"keyword.operator.bitwise.shift.cpp"
+			],
 			"settings": {
 				"foreground": "#BBBBBB",
 			}
@@ -463,9 +467,13 @@
 		},
 		{
 			"name": "Embedded section punctuation",
-			"scope": "punctuation",
+			"scope": [
+				"punctuation",
+				"punctuation.separator.delimiter.comma.cpp"
+			],
 			"settings": {
-				"foreground": "#BBBBBB"
+				"foreground": "#BBBBBB",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -480,7 +488,7 @@
 			"scope": [
 				"meta.function-call.generic",
 				"support.type.python",
-				"keyword.control.flow.python",
+				"keyword.control",
 				"constant.other.caps.python",
 				"variable.language.special.self.python",
 				"keyword.operator.logical.python"
