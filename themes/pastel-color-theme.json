@@ -566,15 +566,15 @@
 			}
 		},
 		{
-			"name": "Typescript extended flow highlighting",
+			"name": "JS/TS/React Extended Type Recognition",
 			"scope": [
 				"support.type.primitive.ts",
+				"support.class.component.js"
 			],
 			"settings": {
-				"foreground": "#AA93DD"
+				"foreground": "#AA93DD",
 			}
 		},
-
 		
 	]
 }

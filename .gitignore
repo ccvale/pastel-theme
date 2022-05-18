@@ -4,3 +4,4 @@ node_modules
 .vscodeignore
 .vscode
 launch.json
+.DS_Store
